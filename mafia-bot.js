@@ -1,7 +1,7 @@
 ;
 /*
 bot for mafia-game: https://mafia.t3h1337.ru/home/#, which framed to VK
-author: Donchenko Max (https://github.com/goodwin64)
+author: Max Donchenko (https://github.com/goodwin64)
 */
 (function bot() {
 	var money = +($("#co_basic_money")[0].innerHTML.replace(" ", ""));
